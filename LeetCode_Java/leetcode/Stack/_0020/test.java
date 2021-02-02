@@ -1,4 +1,4 @@
-package Link._0020;
+package Stack._0020;
 
 public class test {
     public static void main(String[] args) {
